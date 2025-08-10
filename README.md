@@ -1,6 +1,6 @@
 # state_app
 
-A new Flutter project.
+A Simple flutter project to learn how to use Bloc and Cubet.
 
 ## Getting Started
 
